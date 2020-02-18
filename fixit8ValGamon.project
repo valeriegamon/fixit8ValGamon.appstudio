@@ -18,8 +18,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "whileAB",
+            "whileAB.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form2",
+            "Form2.json"
           ]
         }
       ],
@@ -39,7 +47,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "whileAB",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
