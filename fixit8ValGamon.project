@@ -29,6 +29,14 @@
             "forAB",
             "forAB.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calcAB",
+            "calcAB.json"
+          ]
         }
       ],
       "configxml": null,
